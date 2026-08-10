@@ -1,4 +1,4 @@
-# cisco-foundational-badges
+# cisco-foundational-careerpath-badges
 
 <table bgcolor="#0056b3" width="100%">
   <tr>
