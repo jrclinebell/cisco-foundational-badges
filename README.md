@@ -10,19 +10,19 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/8c3be79f-76b2-49ca-9ec4-4d0d7c903b30">
-    <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="200" />
+    <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="190" />
   </a>
   <a href="https://www.credly.com/badges/32e8a77a-4112-41a3-8961-8dcf434aa6f2">
-    <img src="https://images.credly.com/size/340x340/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="200" />
+    <img src="https://images.credly.com/size/340x340/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="190" />
   </a>
   <a href="https://www.credly.com/badges/3c62da12-dbde-4e50-91ba-bb8b75d9adfb">
-    <img src="https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" width="200" />
+    <img src="https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" width="190" />
   </a>
   <a href="https://www.credly.com/badges/75c71bfd-d4cf-46b0-a9a3-86897ea437f1">
-    <img src="https://images.credly.com/size/340x340/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="200" />
+    <img src="https://images.credly.com/size/340x340/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="190" />
   </a>
   <a href="https://www.credly.com/badges/e5403e08-40bc-4e70-8bcc-5359976b3cfe">
-    <img src="https://images.credly.com/size/340x340/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" width="200" />
+    <img src="https://images.credly.com/size/340x340/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" width="190" />
   </a>
 </p>
 
